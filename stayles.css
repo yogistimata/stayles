@@ -1,0 +1,24 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(2, 165, 2);
+    }
+    
+    #Daftar-Game{
+        border-collapse: collapse;
+        background-size: auto;
+        background-image: url('background/gambar.jpg');
+        background-repeat: no-repeat;
+        border-width: 5px;
+        border-style: double;
+        border-color: rgb(161, 120, 15);
+
+    }
+    #Daftar-Game h3{
+        font-size: 40px;
+        border-collapse: collapse;
+    }
+    
+    .link{
+        color: red;
+        text-decoration: none;
+    }
